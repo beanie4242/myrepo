@@ -12,3 +12,5 @@ usethis::create_from_github(
   repo_spec = "https://github.com/beanie4242/myrepo.git", # GitHub URL
   destdir = "~/Documents/GitHub" # Local project location
 )
+
+# Changing the file
