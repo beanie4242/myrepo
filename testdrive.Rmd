@@ -1,7 +1,7 @@
 ---
 title: "Test Drive"
-output: html_document
 date: "2024-10-22"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
